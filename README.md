@@ -1,5 +1,5 @@
 # PerHeFed
-PerHeFed: a General Framework of Personalized Federated Learning for Heterogeneous Convolutional Neural Networks
+Source code of *PerHeFed: a General Framework of Personalized Federated Learning for Heterogeneous Convolutional Neural Networks*
 
 ## Requirements
 numpy == 1.19.5            
